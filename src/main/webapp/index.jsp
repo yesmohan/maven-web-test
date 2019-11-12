@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 
 <%
-request.setAttribute("pageHeading", "MK Pets!");
+request.setAttribute("pageHeading", "MK Birds!");
 %>
 
 <%!
